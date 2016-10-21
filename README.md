@@ -1,4 +1,4 @@
 projet
 ======
 
-A Symfony project created on June 27, 2016, 6:50 am.
+A symfony project used to learn basics of the framework
